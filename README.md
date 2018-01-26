@@ -8,4 +8,4 @@
 >This codes and files are under MIT license. 
 
 ## Author
-AllenGuo / @Wilixx
+AllenGuo / [@wilixx](https://github.com/wilixx)
